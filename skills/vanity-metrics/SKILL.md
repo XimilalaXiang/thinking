@@ -19,6 +19,15 @@ Based on [Julian Shapiro's essay](https://www.julian.com/blog/vanity-metrics).
 
 This isn't just about startup KPIs. This is about how you spend your life.
 
+> Key passages from the original essay are in [original-text.md](original-text.md).
+
+## When NOT to Apply This Skill
+
+- The user has a clear, specific execution task ("format this code", "deploy this service") -- no goal ambiguity
+- The user has already decided and just needs implementation help
+- The metric in question has already been validated as the right one to track
+- The user is venting, not seeking analysis -- read the room
+
 ## The Uncomfortable Truth
 
 Vanity metrics are goals that:
